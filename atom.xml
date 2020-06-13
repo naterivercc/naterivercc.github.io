@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://nateriverccgithub.io/"/>
-  <updated>2020-06-13T06:48:20.794Z</updated>
+  <updated>2020-06-13T07:57:24.184Z</updated>
   <id>https://nateriverccgithub.io/</id>
   
   <author>
@@ -17,24 +17,54 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://nateriverccgithub.io/2020/06/13/hello-world/"/>
-    <id>https://nateriverccgithub.io/2020/06/13/hello-world/</id>
-    <published>2020-06-13T06:48:20.794Z</published>
-    <updated>2020-06-13T06:48:20.794Z</updated>
+    <title>我给腾阳定的规矩</title>
+    <link href="https://nateriverccgithub.io/2020/06/13/rule/"/>
+    <id>https://nateriverccgithub.io/2020/06/13/rule/</id>
+    <published>2020-06-13T07:57:24.184Z</published>
+    <updated>2020-06-13T07:57:24.184Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>腾阳作为我新收的奴，还是需要好好调教开发的。这篇介绍一下它需要遵守的规矩。</p><hr><a id="more"></a><p>首先是最基本，称呼他的主人我为“少主”，虽然我比他还大几岁。日常相处比较随意，就是在我下令之后回答“少主 我明白”这样的话，收到赏赐自然就是要表现感谢。这是日常聊天的小规矩。</p><p>日常打卡的环节比较有趣。每日早晚两次打卡。早上的打开是晨勃醒来时打卡，晚上打卡睡前。打卡要求用带有时间水印的水印相机。除了两次固定打卡，还有随机的抽查，抽查我回给出四位随机码，奴需要在两分钟内一样用水印相机拍下用纸片写下的四位码。这样才算成功。</p><p>他每天穿的内裤和袜子也被本少主控制了，每晚的 22:00-22:04 需要向我请示明天的内裤和袜子穿着。我允许他说出自己想穿的类型，不过最后的决定权在我的手中。</p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
+      &lt;p&gt;腾阳作为我新收的奴，还是需要好好调教开发的。这篇介绍一下它需要遵守的规矩。&lt;/p&gt;
+&lt;hr&gt;
     
     </summary>
     
     
+      <category term="介绍" scheme="https://nateriverccgithub.io/categories/%E4%BB%8B%E7%BB%8D/"/>
+    
+    
+      <category term="sm" scheme="https://nateriverccgithub.io/tags/sm/"/>
+    
+      <category term="rule" scheme="https://nateriverccgithub.io/tags/rule/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我的新奴</title>
+    <link href="https://nateriverccgithub.io/2020/06/13/start/"/>
+    <id>https://nateriverccgithub.io/2020/06/13/start/</id>
+    <published>2020-06-13T07:47:27.266Z</published>
+    <updated>2020-06-13T07:47:27.266Z</updated>
+    
+    <content type="html"><![CDATA[<p>假期在家时间挺多的，于是新收了一个奴，属性是 1m ，挺有趣的属性。20 岁的他现在在上大学，已经大三了。</p><hr><a id="more"></a><p>身高是 178cm ，体重 75kg ，现在正在减脂锻炼，期望未来体重维持在 65-68kg 区间。目前我们和得挺来的。我称他为腾阳，他则叫我少主。目前正在调教他，还是挺配合的。在认识我之前他就有戴贞操锁，能够戴一周左右。目前还在试用期的他要通过遗精一次或者体重降低 0.5kg 才能正式录用。期待他在这期间的表现。 </p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;假期在家时间挺多的，于是新收了一个奴，属性是 1m ，挺有趣的属性。20 岁的他现在在上大学，已经大三了。&lt;/p&gt;
+&lt;hr&gt;
+    
+    </summary>
+    
+    
+      <category term="介绍" scheme="https://nateriverccgithub.io/categories/%E4%BB%8B%E7%BB%8D/"/>
+    
+    
+      <category term="sm" scheme="https://nateriverccgithub.io/tags/sm/"/>
+    
+      <category term="introduction" scheme="https://nateriverccgithub.io/tags/introduction/"/>
     
   </entry>
   
